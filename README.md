@@ -45,7 +45,7 @@ simple-recipes/
 4. 發布完成後，使用 Pages 顯示的網站網址，確認首頁與五篇食譜皆可正常瀏覽。
 5. 作業繳交時，提供 repository 網址、網站網址、專案簡介、AGENTS.md 與規則延伸說明。
 
-本專案尚未上傳 GitHub 或部署，公開網址需待部署後補上。
+五篇食譜皆為 AI 協助整理，尚未實際試作。網站已部署至 GitHub Pages：https://huang-qianling.github.io/simple-recipes/
 
 ## 如何新增食譜
 先閱讀 AGENTS.md 與任一現有食譜，再新增 recipes/英文小寫名稱.html。沿用共用樣式與全部章節，同時在首頁加入名稱、份量與時間一致的卡片。確認連結、手機排版與來源標示。
